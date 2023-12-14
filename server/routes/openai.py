@@ -22,7 +22,7 @@ def root():
     return ResponseModel('Hi guy', 'This is a public endpoint')
 
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 
 # Function to generate a response using ChatGPT
